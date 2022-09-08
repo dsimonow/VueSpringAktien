@@ -1,9 +1,9 @@
 # VueSpringAktien Implementierung
 ### NOT MAINTAINED
 
-Aktien Ordner für Vue
+#### Aktien Ordner für Vue
 
-Aktienverwaltung Ordner für Spring
+#### Aktienverwaltung Ordner für Spring
 
 Springbackend zum konsumieren der Alphavantage API, größenteils Mocked Frontend auf Vue Basis. Die Anwendung hat noch keinen Login implementiert, es wird vom Nutzer 1 ausgegangen.
 
