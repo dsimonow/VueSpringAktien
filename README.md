@@ -1,4 +1,6 @@
 # VueSpringAktien Implementierung
+### NOT MAINTAINED
+
 Springbackend zum konsumieren der Alphavantage API, größenteils Mocked Frontend auf Vue Basis. Die Anwendung hat noch keinen Login implementiert, es wird vom Nutzer 1 ausgegangen.
 
 ### Login Mocked und Landingpage
